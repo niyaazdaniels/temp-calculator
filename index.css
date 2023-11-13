@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: grey;
+}
+h1 {
+    text-align: center;
+}
+#convert {
+    background: rgb(127, 204, 45);
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 0.9rem;
+    padding: 10px;
+    max-width: 100px;
+    outline: none;
+    border: none;
+}
+#reset {
+    background: rgb(219, 106, 106);
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 0.9rem;
+    padding: 10px;
+    margin: 10px;
+    max-width: 100px;
+    outline: none;
+    border: none;
+}
+input {
+    padding: 15px;
+    margin: 20px;
+    font-size: 1rem;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+  
+}
